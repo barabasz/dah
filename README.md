@@ -1,1 +1,1 @@
-# dah
+# DAH = Disable aria-hidden
